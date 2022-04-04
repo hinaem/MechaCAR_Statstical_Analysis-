@@ -42,7 +42,8 @@ Performing t-tests to determine if all manufacturing lots and each lot individua
 <img width="591" alt="Test2" src="https://user-images.githubusercontent.com/95388367/161450787-3772b0af-5f2a-4455-9608-0f2985ab264e.png">
 
 - This fourth analysis shows the test for Lot 3. Due to the p value being 0.04168 it is significantly different. 
-<img width="592" alt="Test3" src="https://user-images.githubusercontent.com/95388367/161450789-8028c5a5-8b35-4aab-8243-5beb5c27303f.png">
+<img width="592" alt="Test3" src="https://user-images.githubusercontent.com/95388367/161455623-5fc06c28-e39b-4e15-a8ca-d7e09c364afb.png">
+
 
 
 
